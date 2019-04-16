@@ -6,7 +6,7 @@ def loop_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
     puts phrase
     count =+ count 
-    break if count 
+    break if count == 7
   end
 end
 
